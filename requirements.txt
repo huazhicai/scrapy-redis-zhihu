@@ -8,7 +8,7 @@ numpy==1.16.2+mkl
 Pillow==5.4.1
 PyMySQL==0.8.0
 redis==2.10.6
-requests==2.18.4
+requests==2.31.0
 scikit-learn==0.20.3
 scipy==1.2.1
 Scrapy==1.6.0
